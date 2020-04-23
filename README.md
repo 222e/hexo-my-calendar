@@ -12,8 +12,8 @@ CloudCalendar:
   language: zh-CN
   single: true
   root: /calendar/
-  calendarCdn: //cdn.jsdelivr.net/gh/theme-next/theme-next-calendar/calendar.min.js
-  langCdn: //cdn.jsdelivr.net/gh/theme-next/theme-next-calendar/languages.min.js
+  calendarCdn: //cdn.jsdelivr.net/gh/222e/theme-next-calendar/calendar.min.js
+  langCdn: //cdn.jsdelivr.net/gh/222e/theme-next-calendar/languages.min.js
   #disableSidebar: false
 ```
 主要是为了适应暗黑模式<br>
