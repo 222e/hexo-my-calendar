@@ -1,5 +1,5 @@
 # theme-next-calendar
-[项目原地址](https://github.com/icecory/theme-next-calendar）
+[项目原地址](https://github.com/icecory/theme-next-calendar)
 [我的版本](https://www.npmjs.com/package/hexo-my-calendar)
 
 ```
