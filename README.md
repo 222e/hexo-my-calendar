@@ -17,6 +17,6 @@ CloudCalendar:
   #disableSidebar: false
 ```
 主要是为了适应暗黑模式<br>
-正在自定义中
+正在自定义中<br>
 参考：[安装简化](https://github.com/theme-next/theme-next-calendar)
 
