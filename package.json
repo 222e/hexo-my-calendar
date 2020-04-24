@@ -1,0 +1,31 @@
+{
+  "name": "hexo-my-calendar",
+  "version": "1.0.1",
+  "description": "calendar for theme-next",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+    "scripts": {
+      "eslint": "eslint .",
+      "jscs": "jscs ."
+  },
+    "devDependencies": {
+      "eslint": "^6.5.1",
+      "object-assign": "^4.1.1",
+      "eslint-config-hexo": "^3.0.0",
+      "jscs": "^3.0.7",
+      "jscs-preset-hexo": "^1.0.1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/222e/hexo-my-calendar.git"
+    },
+    "keywords": [
+      "calendar",
+      "theme-next",
+      "hexo"
+    ],
+  "author": "222e",
+  "license": "ISC"
+}
