@@ -1,7 +1,7 @@
 # theme-next-calendar
 [项目原地址](https://github.com/icecory/theme-next-calendar)
-[我的版本](https://www.npmjs.com/package/hexo-my-calendar)
-
+[我的版本](https://www.npmjs.com/package/hexo-my-calendar)<br>
+![预览](https://pan.whdx.xyz/xsj/pic/screenshortcut_of_calendar.jpg)
 ```
 npm i hexo-my-calendar
 ```
